@@ -1,5 +1,5 @@
 let isSunny = true;
-let isWeekend = trueg;
+let isWeekend = true;
 if (isSunny && isWeekend)
     console.log("you can go to beach")
 else
